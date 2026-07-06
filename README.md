@@ -1,4 +1,4 @@
-# Hi, I'm Apolonio (apowopa) 👋
+# Hi, I'm Apolonio 👋
 
 <table>
 <tr>
