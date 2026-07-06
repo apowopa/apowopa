@@ -1,13 +1,11 @@
 # Hi, I'm Apolonio (apowopa) 👋
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/apolonio-cuevas)
-[<img src="https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:manuelapoloniocuevas@gmail.com)
-
 <table>
 <tr>
 <td valign="top" width="60%">
 
-### Takodachi 
+### Takodachi
+
 - Im in my final-year of Colleage
 - A Data Engineering Undergraduate Student.
 - Been building ETL pipelines during my internships.
@@ -20,13 +18,15 @@
 - Neovim btw
 
 </td>
-<td valign="top" width="40%">
-<img width="280" alt="GIF" src="assets/ina_nod.gif" />
+<td valign="center" width="40%">
+<img width="280" alt="GIF" src="assets/ina_load.gif" />
 </td>
 </tr>
+
 </table>
 
-### Languages and Tools:
+### Languages and Tools
+
 <div display="flex">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white">
@@ -41,7 +41,8 @@
 
 <br/>
 
-### Data & Cloud Stack:
+### Data & Cloud Stack
+
 <div display="flex">
   <img src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?&style=for-the-badge&logo=apachespark&logoColor=white">
   <img src="https://img.shields.io/badge/Databricks-%23FF3621.svg?&style=for-the-badge&logo=databricks&logoColor=white">
@@ -52,3 +53,8 @@
 </div>
 
 <br/>
+
+### Contact
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/apolonio-cuevas)
+[<img src="https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:manuelapoloniocuevas@gmail.com)
+
