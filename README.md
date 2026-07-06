@@ -3,7 +3,9 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/apolonio-cuevas)
 [<img src="https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:manuelapoloniocuevas@gmail.com)
 
-<img align="right" width="280" alt="GIF" src="assets/ina_nod.gif" />
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ### Takodachi 
 - Im in my final-year of Colleage
@@ -17,8 +19,12 @@
 - Learning Rust btw
 - Neovim btw
 
-<br clear="right"/>
-<br/>
+</td>
+<td valign="top" width="40%">
+<img width="280" alt="GIF" src="assets/ina_nod.gif" />
+</td>
+</tr>
+</table>
 
 ### Languages and Tools:
 <div display="flex">
