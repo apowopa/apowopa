@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/apolonio-cuevas)
 [<img src="https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:manuelapoloniocuevas@gmail.com)
 
-<img align="right" width="280" alt="GIF" src="https://media1.tenor.com/m/8z9SiKdeHK0AAAAd/ina-%E3%82%A4%E3%83%8A.gif" />
+<img align="right" width="280" alt="GIF" src="assets/ina_nod.gif" />
 
 ### Takodachi 
 - Im in my final-year of Colleage
