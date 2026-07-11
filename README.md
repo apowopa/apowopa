@@ -6,16 +6,13 @@
 
 ### Takodachi
 
-- Im in my final-year of Colleage
-- A Data Engineering Undergraduate Student.
-- Been building ETL pipelines during my internships.
-- Tuned SQL queries that were painfully slow.
-- Kept ML and MILP models running in production.
-- Worked with PySpark and Databricks for distributed stuff.
-- Comfortable in the cloud, mostly GCP and Azure.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
-- Learning Rust btw
-- Neovim btw
+- Final-year Data Engineering student.
+- Build ETL pipelines, wrangle slow SQL queries until they behave.
+- Kept ML and MILP models alive in production.
+- PySpark, Databricks, some GCP and Azure.
+- Looking for work right now. Like learning and jumping into whatever.
+- Learning Rust btw.
+- Neovim btw.
 
 </td>
 <td valign="center" width="40%">
