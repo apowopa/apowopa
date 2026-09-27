@@ -4,12 +4,10 @@
 <tr>
 <td valign="top" width="60%">
 
-### Takodachi
+### Takodachi!
 
 - Final-year Data Engineering student.
-- Build ETL pipelines, wrangle slow SQL queries until they behave.
-- Kept ML and MILP models alive in production.
-- PySpark, Databricks, some GCP and Azure.
+- I worked mostly with ETL pipelines, ML and MILP models in production.
 - Looking for work right now. Like learning and jumping into whatever.
 - Learning Rust btw.
 - Neovim btw.
